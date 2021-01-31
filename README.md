@@ -3,21 +3,13 @@
 Project Proposal
 
 Introduction:
-There are countless sources of fake news coming from programmed bots and continue to spread false information 24/7.Fake news has grown from being sent via emails to attacking social media. Fake news is written and published usually with the intent to mislead in order to damage an agency, entity. 
-The problem is real and hard to solve because the bots are getting better and it is not simple to detect when the information is true or not all time, we need better systems that helps us understand the patterns of fake news to improve the social media.
-Through this project I would like to detect the fake news with a deep learning approach. 
+Sentiment Analysis on Twitter 2020 US Presidential Election
+The 2020 United States presidential election, scheduled for Tuesday, November 3, 2020, will be the 59th US election. The series of presidential primary elections and caucuses are held during the first six months of 2020. The objective of this project was to determine, analyze, and visualize the sentiment in tweets pertaining to the 2020 US Presidential Election. Raw text from tweets containing specific hashtags was streamed live from Twitter using the Tweepy API. The tweets were cleaned and tokenized using the Regular Expression library.
+The dataset comprises of 1.72 Million Tweets regarding the US Elections. It is collected from October 15, 2020 till November 8, 2020 (as of version 19, the most recent version at the time of this update). The data is distributed into two CSV files:
+hashtag_donaldtrump.csv
+hashtag_joebiden.csv
+Tweets were scraped using the snsscrape and Twitter API on #DonaldTrump, #Trump, #JoeBiden, #Biden keywords.
+The main steps in the project:
+1.Exploratory data analysis 2. Sentiment analysis of tweet and classifying each state as Democratic or republic on basis of tweets 3. Using K means to Create word cluster and word cloud , optimizing K means using Elbow method
 
-Literature Review:
-The project involves python libraries that I have learnt during my masters. I would like to perform EDA, Data Visualization, Text Analytics, Machine Learning models.
-
-Basic Idea for Data Analysis:
-The dataset has been extracted from the news aggregator dataset from the UCI machine learning repository was used to extract real news this dataset consists of links to the originally published news articles I have extracted the URLs.
-Fake news I used Kaggle dataset getting real about fake news dataset. There are two csv files fake and true. 
-
-Main steps involved in the project:
-1.	Data Cleaning
-2.	EDA
-3.	Modeling
-4.	Decision tree classifier
-5.	Random Forest Classifier 
 
