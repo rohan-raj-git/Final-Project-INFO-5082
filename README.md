@@ -1,7 +1,5 @@
 # Final-Project-INFO-5082
 
-Project Proposal
-
 PROJECT PROPOSAL
 
 1.	Project Title:
@@ -9,7 +7,7 @@ Sentiment Analysis on Presidential Elections 2020 Twitter Data.
 
 2.	Introduction and Background of the Project:
 
-Sentiment analysis is utilized by various information investigation organizations on an assortment of subjects. A portion of the well-known business sectors where it is utilized are: 
+Sentiment analysis is utilized by various information investigation organizations on an assortment of subjects. A portion of the well-known business sectors where it is   utilized are: 
 Business: The advertising group of numerous organizations use it to make business techniques, to see how clients see their item and to comprehend client conduct to improve deals. 
 Political issues: In the political field, it is utilized to monitor districts where the up-and-comer is positive and work towards locales where the applicant isn't ideal to improve their odds in a political race.    
 
